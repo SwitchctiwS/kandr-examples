@@ -1,0 +1,1 @@
+// ssec = Simple Syntax Error Catcher
