@@ -13,7 +13,7 @@ int main(void) {
 	return 0;
 }
 
-/* htoi: converts hex to dec (int)
+/* Converts hex to dec (int)
 Has an optional 0x or 0X
 Allowable digits are 0..9, a..f, A..F
 Params:
